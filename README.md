@@ -5,8 +5,9 @@ A platform for developers to connect. They can create their portofolio by adding
 Users can also create small posts and like/dislike and comment on other posts.
 
 Live link: <a href="https://salty-reaches-56406.herokuapp.com/" target="_blank"> Click here</a>
+Please notice, that first("cold") start for projects deployed on Heroku takes about 30 seconds, because of free Heroku account.
 
----
+
 
 ## Quick Start
 
@@ -46,6 +47,8 @@ npm run prod
 ```
 
 In the project a `Procfile` has also been provided. This file is used by Heroku.
+
+
 
 ### To deploy this project to heroku see steps below:
 
