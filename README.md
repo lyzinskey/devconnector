@@ -6,7 +6,7 @@ Users can also create small posts and like/dislike and comment on other posts.
 
 Live link: <a href="https://salty-reaches-56406.herokuapp.com/" target="_blank"> Click here</a>
 
-Please notice, that first("cold") start for projects deployed on Heroku takes about 30 seconds, because of free Heroku account.
+### Please notice, that first("cold") start for projects deployed on Heroku takes about 30 seconds, because of free Heroku account.
 
 
 
