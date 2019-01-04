@@ -91,24 +91,39 @@ git push heroku master:master
 
 
 ## Snapshots
+
+### Initial
+
 ![alt text](/snapshots/0.png)
+
+### Login
 
 ![alt text](/snapshots/1.png)
 
+### Dashboard of an user
+
 ![alt text](/snapshots/2.png)
+
+### Profiles of all developers
 
 ![alt text](/snapshots/3.png)
 
+### Profile of a developer
 ![alt text](/snapshots/4.png)
 
+### Profile of a developer (cont.)
 ![alt text](/snapshots/5.png)
 
+### User can add experience
 ![alt text](/snapshots/6.png)
 
+### User can add education
 ![alt text](/snapshots/7.png)
 
+### All the Posts
 ![alt text](/snapshots/8.png)
 
+### User can make comments to a post
 ![alt text](/snapshots/9.png)
 
 ## Main Technologies
